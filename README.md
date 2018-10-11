@@ -20,3 +20,6 @@ The output should result in 1 if the inputs first value is 1. Otherwise, the out
 
 Training the network 1000 times using backpropagation, the result of the new input was:
 0.9871252 (almost 1.0)
+
+Project inspired by:
+https://towardsdatascience.com/how-to-build-your-own-neural-network-from-scratch-in-python-68998a08e4f6
